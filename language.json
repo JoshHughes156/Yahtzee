@@ -1,0 +1,143 @@
+{
+	"upper_section": [
+		{
+			"name": "upper section",
+			"eng": "Upper Section",
+			"de": "Oberer Block"
+		},
+		{
+			"name": "aces",
+			"eng": "Aces",
+			"de": "Einer"
+		},
+		{
+			"name": "twos",
+			"eng": "Twos",
+			"de": "Zweier"
+		},
+		{
+			"name": "threes",
+			"eng": "Threes",
+			"de": "Dreier"
+		},
+		{
+			"name": "fours",
+			"eng": "Fours",
+			"de": "Vierer"
+		},
+		{
+			"name": "fives",
+			"eng": "Fives",
+			"de": "Fünfer"
+		},
+		{
+			"name": "sixes",
+			"eng": "Sixes",
+			"de": "Sechser"
+		}
+	],
+	"lower_section": [
+		{
+			"name": "lower section",
+			"eng": "Lower Section",
+			"de": "Unterer Block"
+		},
+		{
+			"name": "three of a kind",
+			"eng": "Three of a Kind",
+			"de": "Dreierpasch"
+		},
+		{
+			"name": "four of a kind",
+			"eng": "Four of a kind",
+			"de": "Viererpasch"
+		},
+		{
+			"name": "full house",
+			"eng": "Full house",
+			"de": "Full House"
+		},
+		{
+			"name": "small straight",
+			"eng": "Small straight",
+			"de": "Kleine Straße"
+		},
+		{
+			"name": "large straight",
+			"eng": "Large straight",
+			"de": "Große Straße"
+		},
+		{
+			"name": "yahtzee",
+			"eng": "Yahtzee",
+			"de": "Kniffel"
+		},
+		{
+			"name": "chance",
+			"eng": "Chance",
+			"de": "Chance"
+		}
+	],
+	"misc": [
+		{
+			"name": "menu",
+			"eng": "\n 1: Play\n 2: Settings\n 3: Exit\n",
+			"de": "\n 1: Start\n 2: Einstellungen\n 3: Ausfahrt"
+		},
+		{
+			"name": "enter choice",
+			"eng": "Please enter your choice",
+			"de": "Bitte wählst"
+		},
+		{
+			"name": "score",
+			"eng": "Score",
+			"de": "Spielstand"
+		},
+		{
+			"name": "round",
+			"eng": "Round ",
+			"de": "Rund "
+		},
+		{
+			"name": "die roll",
+			"eng": "Die roll",
+			"de": "Rollennummer"
+		},
+		{
+			"name": "hold it",
+			"eng": "Do you want to hold it",
+			"de": "Willst du es halten"
+		},
+		{
+			"name": "hold",
+			"eng": "Hold",
+			"de": "Aufbewahrung"
+		},
+		{
+			"name": "choosen",
+			"eng": "Choosen",
+			"de": "Gewählt"
+		},
+		{
+			"name": "which one",
+			"eng": "Which one",
+			"de": "Welches"
+		},
+		{
+			"name": "got a score of",
+			"eng": "Well done you got a score of",
+			"de": "Gut gemacht, du hast ein Spielstand von"
+		},
+		{
+			"name": "enter valid number",
+			"eng": "Please enter a valid number ",
+			"de": "Bitte wählst ein richtige Zahl"
+		},
+		{
+			"name": "duplicate enter",
+			"eng": "You can't select one you've already choosen",
+			"de": "Du hast schon diese Wahl gewählt, bitte wieder wählen"
+		}	
+	]
+}

@@ -1,0 +1,12 @@
+Language file:
+menu
+please enter your choice
+score
+round n
+roll set n
+die roll (x/y)
+do you want to hold it (y/n)
+hold
+choosen
+which one?:
+Well done you got a score of:
