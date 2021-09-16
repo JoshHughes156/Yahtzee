@@ -28,8 +28,8 @@ def run():
 		elif choice == 2:
 			if input("Would you like to change language (y/n): ").lower() == "y":
 				while True:
-					l = input("What language do you want? (eng/de): ")
-					if l not in ["eng", "de"]:
+					l = input("What language do you want? (eng/de/thai): ")
+					if l not in ["eng", "de", "thai"]:
 						print("Enter a valid language")
 						continue
 					else:
